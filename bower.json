@@ -11,7 +11,7 @@
   "main": "./src/select2.js",
   "dependencies": {
     "angular": ">=1.2.0",
-    "select2": "https://github.com/wespeke/select2.git#wespeke",
+    "select2": "https://github.com/wespeke/select2.git#3.5.1.1",
     "jquery": ">=1.6.4"
   },
   "devDependencies": {
