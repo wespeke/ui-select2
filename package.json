@@ -11,7 +11,7 @@
   "homepage": "http://angular-ui.github.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-ui/ui-select2.git"
+    "url": "git://github.com/wespeke/ui-select2.git"
   },
   "engines": {
     "node": ">= 0.8.4"
